@@ -49,3 +49,5 @@ Technologies Used:
 *Basic Database / File Handling (for storing user data)
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9c7dc081-4e9f-43dd-8197-2365bc0c6b58)
